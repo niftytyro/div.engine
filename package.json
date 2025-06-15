@@ -1,0 +1,26 @@
+{
+  "name": "div.engine",
+  "version": "1.0.0",
+  "description": "A toy in-browser HTML/CSS rendering engine.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niftytyro/div.engine.git"
+  },
+  "keywords": [
+    "browser",
+    "rendering-engine",
+    "html",
+    "css"
+  ],
+  "author": "Udasi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niftytyro/div.engine/issues"
+  },
+  "homepage": "https://github.com/niftytyro/div.engine#readme"
+}
